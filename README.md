@@ -16,7 +16,7 @@
 
 扬帆云机场运营长期提供了一些优惠活动，比如年付七折等。
 
-![image|690x357](https://discuss.d2l.ai/uploads/default/original/3X/8/c/8ce2cc6f32f1f60f3bbfd86a1a7d53af126ffcf2.png)
+![](https://discuss.d2l.ai/uploads/default/original/3X/8/c/8ce2cc6f32f1f60f3bbfd86a1a7d53af126ffcf2.png)
 
 ---
 
@@ -30,7 +30,7 @@
 
 速云梯机场支持Clash（Stash）、Shadowrocket小火箭等插件，对于新手用户提供完整的教程和插件下载使用指导，24小时客服为用户提供帮助。
 
-![image|690x357](https://discuss.d2l.ai/uploads/default/original/3X/4/b/4b87ba338049dfc00724e4345a413085444794da.jpeg)
+![](https://discuss.d2l.ai/uploads/default/original/3X/4/b/4b87ba338049dfc00724e4345a413085444794da.jpeg)
 
 ---
 
