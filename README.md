@@ -4,7 +4,8 @@
 
 **这里我们收集主流稳定好用的[翻墙机场](https://gitlab.com/cnvpn/2025-vpn-ssr)推荐给大家，从机场线路节点区分包含了直连机场、BGP中转机场、IPLC专线机场、IEPC专线机场，从机场协议区分包含了Shadowsocks节点、SSR节点、V2Ray节点、Trojan节点、Clash节点，从机场特色区分包含了高端机场、老牌机场、便宜机场、十元机场、性价比机场。**
 
-![](https://discuss.d2l.ai/uploads/default/original/3X/0/5/058cb4974ef43c62b002a4e3b0ca1c6f2dbfa579.jpeg)
+<img width="841" height="389" alt="主流" src="https://github.com/user-attachments/assets/0767ac74-6df0-44ed-8192-36a008e85dc3" />
+
 
 ---
 
@@ -16,7 +17,6 @@
 
 扬帆云机场运营长期提供了一些优惠活动，比如年付七折等。
 
-![](https://discuss.d2l.ai/uploads/default/original/3X/8/c/8ce2cc6f32f1f60f3bbfd86a1a7d53af126ffcf2.png)
 
 ---
 
@@ -30,7 +30,6 @@
 
 速云梯机场支持Clash（Stash）、Shadowrocket小火箭等插件，对于新手用户提供完整的教程和插件下载使用指导，24小时客服为用户提供帮助。
 
-![](https://discuss.d2l.ai/uploads/default/original/3X/4/b/4b87ba338049dfc00724e4345a413085444794da.jpeg)
 
 ---
 
